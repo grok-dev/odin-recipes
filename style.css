@@ -1,0 +1,10 @@
+img {
+  width: 100%;
+  aspect-ratio: 1;
+  max-width: 400px;
+  object-fit: cover;
+}
+
+p {
+  max-width: 400px;
+}
